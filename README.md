@@ -43,10 +43,14 @@ flutter pub get
 
 Run the app:
 
+```bash
 flutter run
+```
 
 
 Build release APK:
 
+```bash
 flutter build apk --release
+```
 
